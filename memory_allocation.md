@@ -42,3 +42,7 @@ When an application needs memory, it requests it from the kernel using a system 
 
 
 - https://www.scaler.com/topics/c/memory-layout-in-c/
+
+
+ANSWER
+- -https://www.perplexity.ai/search/act-as-a-csa-computer-systems-FaUU5sIIR06TaqwEF9dlbA#2
